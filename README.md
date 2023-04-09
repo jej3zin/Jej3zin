@@ -1,6 +1,6 @@
 ### Olá Internet!👋
 
-<div style="display: inline_block">
+<div>
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jej3zin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&layout=compact&langs_count=16&theme=midnight-purple"/>
   

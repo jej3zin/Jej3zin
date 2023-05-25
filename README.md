@@ -28,7 +28,8 @@
   <a href="https://github.com/jej3zin">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jej3zin&theme=midnight-purple&repo=github-readme-stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jej3zin&theme=midnight-purple&repo=jej3zin"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jej3zin&theme=midnight-purple&repo=Portfolio"/>
   </a>
 </div>
 

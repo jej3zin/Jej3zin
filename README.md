@@ -31,7 +31,8 @@
 <div align="center">
 <h2 align="center">Contribution</h2>
 
-![Snake animation](https://github.com/jej3zin/jej3zin/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/jej3zin/jej3zin/blob/output/github-contribution-grid-snake.svg) -->
+<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/jej3zin/jej3zin/output/github-contribution-grid-snake-dark.svg" width="1000" />
 
 </div>
 

@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" valign="top">
-  <h2 align="center">About</h2><br>
+  <h2 align="center">:wolf: - About - :wolf:</h2><br>
 
   <p>Prazer, eu sou jean e tenho trabalhado em alguns projetos - olhe meus repósitorios - embora eu tenha gostado do resultado, preciso de feedback dos devs para melhorar ainda mais. Meu sonho é ser um dev frontend respeitado, mas para isso, preciso caminhar muito.</p>
 
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center" valign="top">
-  <h2 align="center">Stats</h2><br>
+  <h2 align="center">:outbox_tray: - Stats - :outbox_tray:</h2><br>
 
   <a href="https://github.com/jej3zin">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center" valign="top">
-  <h2 align="center">Technology</h2><br>
+  <h2 align="center">:wrench: - Technology - :wrench:</h2><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -51,12 +51,12 @@
 
 
 <div align="center">
-  <h2 align="center">Contribution</h2>
+  <h2 align="center">:octocat: - Contribution - :octocat:</h2>
   <!--![Snake animation](https://github.com/jej3zin/jej3zin/blob/output/github-contribution-grid-snake.svg) -->
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/jej3zin/jej3zin/output/github-contribution-grid-snake-dark.svg" width="1000" />
   <hr>
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e muito :coffee: puro. Inspire-se.</p>
+  <p>:black_circle: Feito com :purple_heart: e muito :coffee: puro. Inspire-se. :volcano:</p>
 </div>

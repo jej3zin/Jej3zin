@@ -23,12 +23,12 @@
   <hr>
 </div>
 
-<div align="center"><!--valign="top"-->
+<div align="center" width="100%">
   <h2>🏆| Status</h2>
 
   <a href="https://github.com/jej3zin">
-    <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="160em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="200em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
   <hr>
 </div>

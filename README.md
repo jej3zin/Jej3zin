@@ -2,12 +2,14 @@
 ### Hello, I´m jean
 <hr>
 <p>❗| Atualizando... [24%]</p>
--📚| Autodidata.
--🔧| Arrumando código.
--🍕| Pizza.
-
+<ul>
+  <li>📚| Autodidata.</li>
+  <li>🔧| Arrumando código.</li>
+  <li>🍕| Pizza.</li>
+</ul>
+<br>
 <div>
-  ## 🌟| Infos
+  <h2>🌟| Infos</h2>
   <br>
   <p>Apenas um jovem programador, com ideias ambiciosas.</p>
   <a href="https://www.youtube.com/@jej3zin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -22,18 +24,18 @@
 </div>
 
 <div align="center" valign="top">
-  ## 🏆| Status
+  <h2>🏆| Status</h2>
 
   <a href="https://github.com/jej3zin">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="155em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="155em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
   <hr>
 </div>
 
 <!-- N A V -->
-<div>
-  ## 🔧| Tecs
+<div aligs="center">
+  <h2>🔧| Tecs</h2>
   <br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -48,7 +50,7 @@
 
 <!-- F O O T E R -->
 <div align="center">
-  ## 🕹️| Contribuição
+  <h2>🕹️| Contribuição</h2>
   <!--![Snake animation](https://github.com/jej3zin/jej3zin/blob/output/github-contribution-grid-snake.svg) -->
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/jej3zin/jej3zin/output/github-contribution-grid-snake-dark.svg" width="1000" />
   <hr>

@@ -1,3 +1,6 @@
+<h1>Hello, I´m jean</h1>
+<hr>
+<p>❗| Atualizando...</p>
 <div>
   <img align="center" width="100%" src="https://github.com/jej3zin/Jej3zin/blob/jej3zin-patch-4/Banner_Github-profile.png">
   <hr>

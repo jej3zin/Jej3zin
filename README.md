@@ -20,20 +20,8 @@
 <!-- M A I N-->
 <div>
   <img align="center" width="100%" src="https://github.com/jej3zin/Jej3zin/blob/jej3zin-patch-4/Banner_Github-profile.png">
-  <hr>
-</div>
 
-<div align="center" width="100%">
-  <h2>🏆| Status</h2>
-
-  <a href="https://github.com/jej3zin">
-    <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="200em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
-  </a>
-  <hr>
-</div>
-
-<!-- N A V -->
+  <!-- N A V -->
 <div aligs="center">
   <h2>🔧| Tecs</h2>
   <br>
@@ -46,6 +34,19 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   -->
+</div>
+
+  <hr>
+</div>
+
+<div align="center" width="100%">
+  <h2>🏆| Status</h2>
+
+  <a href="https://github.com/jej3zin">
+    <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="200em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
+  </a>
+  <hr>
 </div>
 
 <!-- F O O T E R -->

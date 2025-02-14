@@ -23,18 +23,18 @@
   <hr>
 </div>
 
-<div align="center" valign="top">
+<div align="center"><!-- valign="top" -->
   <h2>🏆| Status</h2>
 
   <a href="https://github.com/jej3zin">
-    <img height="155em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="155em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="160em" wdith="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jej3zin&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
   <hr>
 </div>
 
 <!-- N A V -->
-<div aligs="center">
+<div align="center">
   <h2>🔧| Tecs</h2>
   <br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

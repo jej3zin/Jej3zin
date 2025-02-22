@@ -13,8 +13,8 @@
   <br>
   <p>Apenas um jovem programador, com ideias ambiciosas.</p>
   <a href="https://www.youtube.com/@jej3zin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jej3zin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
+  <!-- <a href="https://instagram.com/jej3zin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> -->
 </div>
 
 <!-- M A I N-->
@@ -23,7 +23,7 @@
 
   <!-- N A V -->
 <div aligs="center">
-  <h2>🔧| Tecs</h2>
+  <h2>🔧| Tecnologias</h2>
   <br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,7 +40,7 @@
 </div>
 
 <div align="center" width="100%">
-  <h2>🏆| Status</h2>
+  <h2>🏆| Status |🏆</h2>
 
   <a href="https://github.com/jej3zin">
     <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jej3zin&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
@@ -51,12 +51,12 @@
 
 <!-- F O O T E R -->
 <div align="center">
-  <h2>🕹️| Contribuição</h2>
+  <h2>🕹️| Contribuição |🕹️</h2>
   <!--![Snake animation](https://github.com/jej3zin/jej3zin/blob/output/github-contribution-grid-snake.svg) -->
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/jej3zin/jej3zin/output/github-contribution-grid-snake-dark.svg" width="1000" />
   <hr>
 </div>
 
 <div align="center">
-  <p>😎| Trabalhei muito, já pode descansar?</p>
+  <p>😎 Trabalhei muito, já pode descansar?</p>
 </div>

@@ -19,7 +19,9 @@
 
 <!-- M A I N-->
 <div>
-  <img align="center" width="100%" src="https://github.com/jej3zin/Jej3zin/blob/jej3zin-patch-4/Banner_Github-profile.png">
+  
+  ![Jej3zin's card name](https://cardivo.vercel.app/api?name=jej3zin&description=Hey%,%20i%27m%20a%20front%20end%20web%20developer%20&image=https://avatars.githubusercontent.com/u/127148233?v=4&backgroundColor=%23202020&iconColor=%23aeaeae&fontColor=%23dddddd&github=jej3zin&pattern=fourPointStars&colorPattern=%236b6b6b)
+  <!-- <img align="center" width="100%" src="https://github.com/jej3zin/Jej3zin/blob/jej3zin-patch-4/Banner_Github-profile.png"> -->
 
   <!-- N A V -->
 <div aligs="center">

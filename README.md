@@ -2,7 +2,7 @@
 ![Jej3zin's card name](https://cardivo.vercel.app/api?name=jej3zin&description=Hey%,%20i%27m%20a%20front%20end%20web%20developer%20&image=https://avatars.githubusercontent.com/u/127148233?v=4&backgroundColor=%23202020&iconColor=%23aeaeae&fontColor=%23dddddd&github=jej3zin&pattern=fourPointStars&colorPattern=%236b6b6b)
 <a href="https://jej3zin-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
 <hr>
-<p>❗| Atualizando... [24%]</p>
+<p>❗| Atualizando... [24%] - Não se assuste, sei que quer inspiração, irei atualizar e excluir uns projetos</p>
 <ul>
   <li>📚| Autodidata.</li>
   <li>🔧| Arrumando código.</li>
